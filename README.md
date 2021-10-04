@@ -13,3 +13,7 @@ After that, you will add an online code coverage report for your tests.
 
 Please see: https://cpske.github.io/ISP/automation/travis-demo-project
 
+## Coverage report
+
+Please see: https://app.codecov.io/gh/kikikrittamate/demo-pyci
+
